@@ -18,8 +18,8 @@ Este é um projeto simples e divertido de **Amigo Secreto**, desenvolvido com o 
 ##  Capturas de tela
 
 ###  Tela inicial:
-![Tela Inicial](./homeprincipal.jpeg)
+![Tela Inicial](./assets/homeprincipal.jpeg)
 
 ###  Resultado do sorteio:
-![Resultado do Sorteio](./sorteio.jpeg)
+![Resultado do Sorteio](./assets/sorteio.jpeg)
 
